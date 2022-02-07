@@ -1334,6 +1334,9 @@ footer a{
     .css::after{
         left: 44.5vw;
     }
+    .go-top{
+        left: 80%;
+    }
     .js{
         margin-top: .5rem;
         left: 37vw;
